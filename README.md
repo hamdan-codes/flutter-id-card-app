@@ -5,4 +5,5 @@
 ## Steps to run app:- 
 - Create new Flutter Application in Android Studio.
 - Copy the source files from the repo to the desired location of your app directory.
+- Select the AVD
 - RUN
